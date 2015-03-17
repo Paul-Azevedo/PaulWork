@@ -1,0 +1,7 @@
+
+public class things{
+  public static void main(string args[]){
+    String hello = "hello world";
+    system.out.println(hello);
+  }
+}
